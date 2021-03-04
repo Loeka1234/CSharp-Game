@@ -1,0 +1,10 @@
+C:\Users\leerlingk004\Documents\loeka\Game\bin\Debug\Game.exe.config
+C:\Users\leerlingk004\Documents\loeka\Game\bin\Debug\Game.exe
+C:\Users\leerlingk004\Documents\loeka\Game\bin\Debug\Game.pdb
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.Form1.resources
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.exe
+C:\Users\leerlingk004\Documents\loeka\Game\obj\Debug\Game.pdb
